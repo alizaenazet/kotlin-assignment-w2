@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment Week 2</string>
+    <string name="title_activity_soal1">soal1</string>
+    <string name="title_activity_soal2">Soal2</string>
+    <string name="title_activity_soal3">Soal3</string>
+    <string name="title_activity_soal4">Soal4</string>
+</resources>
